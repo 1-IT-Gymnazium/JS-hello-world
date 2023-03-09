@@ -1,5 +1,5 @@
 function helloWorld() {
-    return "Hello world!";
+    //zde napiš svůj kód
 }
 
-module.exports = helloWorld
+module.exports = helloWorld //neměnit
